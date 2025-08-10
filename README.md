@@ -1,12 +1,10 @@
 # -每日打卡/签到插件
 
-ps:本人基本0代码基础，此代码全部由ai生成。
-本插件在Miao-Yunzai v3正常运行
-其他版本崽没试过
-出现其他问题可以去问ai，这种小问题基本都能解决
+ps:本人基本0代码基础，此代码全部由ai生成。  
+本插件在Miao-Yunzai v3正常运行，其他版本崽没试过
 
 # -安装
-将js文件丢进Miao-Yunzai/plugins/example
+将js文件丢进Miao-Yunzai/plugins/example  
 然后把img文件也丢进去(可以自己改文件路径)
 
 # -演示
