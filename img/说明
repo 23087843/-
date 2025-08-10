@@ -1,0 +1,4 @@
+这里上传图片
+编辑文件path.join(__dirname, 'img/xxx.jpg')
+部分  可进行增加，删减。
+本文件放到/plugins/example/img/图片文件
